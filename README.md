@@ -123,8 +123,9 @@ The dashboard enables strategic decision-making through:
 - State-Level Sales Distribution
 - Shipping Method Efficiency
 
+## Dataset
+https://drive.google.com/drive/folders/1TUs_lFQ_g2T7vODrkPnJuXYU2dzQQtoo?usp=sharing
 
-**Dataset**: ~113K orders from US-based Amazon e-commerce sales  
 
 
 
